@@ -1,0 +1,2 @@
+﻿
+Truncate table Placement
